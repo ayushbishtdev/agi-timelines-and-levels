@@ -1,0 +1,12 @@
+source_name,affiliation,source_type,stated_prediction,prediction_date,notes
+Sam Altman,OpenAI,Lab CEO,"Internal system he would call AGI by end of 2026; said in Jan 2025 they were confident they know how to build AGI as traditionally understood",2026-08,Chief research officer Mark Chen separately put OpenAI "80% of the way" there
+Dario Amodei,Anthropic,"Lab CEO, formal policy submission","Powerful AI (matching or exceeding Nobel laureates across most disciplines) as soon as late 2026 or early 2027",2025-03,Submitted to the White House Office of Science and Technology Policy; Amodei has continued to defend this timeline
+Demis Hassabis,Google DeepMind,Lab CEO,"5 to 10 years out; on stage with Amodei framed it as roughly a 50% chance within 5 years",2026-01,Tightened from an earlier 5-to-10-year window given in 2024; the slowest of the major lab CEOs
+Elon Musk,xAI,Lab CEO,"AI smarter than the smartest human within about 2 years; reiterated AI could exceed any individual human's abilities by end of 2026",2026-01,One of the most aggressive public timelines of any lab leader
+Mustafa Suleyman,Microsoft AI,Lab CEO,"Human-level performance on most, if not all, professional tasks within 12-18 months",2026-02,Stated in a Financial Times interview
+Yann LeCun,AMI Labs (formerly Meta),Lab-affiliated skeptic,"No date given; argues current transformer/LLM architectures cannot reach AGI at all",2026-03,Left Meta in late 2025 and raised $1.03B for AMI Labs to build world-model architectures instead
+Metaculus community (full AGI),Independent forecaster consensus,Live prediction market,"Roughly 50% odds of a qualifying system by the early-to-mid 2030s",2025-2026,Live, continuously updated community forecast; date moves as new evidence arrives
+Metaculus community (weakly general AI),Independent forecaster consensus,Live prediction market,"Lower-bar 'weakly general AI' question, consistently earlier than the full-AGI question",2025-2026,Separate live Metaculus question with a lower capability bar
+AI Impacts / Grace et al.,Academic survey (2778 AI researchers),Researcher survey,"50% chance of human-level machine intelligence around 2047",2023,"13-year compression from the 2060 median in the same survey's 2022 run"
+Ray Kurzweil,Independent forecaster,Public prediction,"AGI by 2029",n/a,Longstanding prediction referenced in comparative AGI timeline charts
+Geoffrey Hinton,Independent researcher,Public prediction,"Range spanning roughly 2028 to 2043 depending on the interview",n/a,Estimates have varied across public statements
